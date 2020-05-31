@@ -1,0 +1,30 @@
+[
+  {
+    "id":"000001",
+    "name": "Bavaria",
+    "country": "Brasil",
+    "image": "https://pngimage.net/wp-content/uploads/2018/05/bavaria-png-7.png",
+    "abv": "3%"
+  },
+  {
+    "id":"000001",
+    "name": "Antartica",
+    "country": "Brasil",
+    "image": "https://www.wikirio.com.br/images/9/9d/Logo_antartica.jpg",
+    "abv": "3%"
+  },
+  {
+    "id":"000001",
+    "name": "Skol",
+    "country": "Dinamarca",
+    "image": "https://pngimage.net/wp-content/uploads/2018/06/garrafa-cerveja-skol-png-2.png",
+    "abv": "3%"
+  },
+  {
+    "id":"000007",
+    "name": "Hineken",
+    "country": "Holanda",
+    "image": "https://logodownload.org/wp-content/uploads/2014/08/logo-Heineken.png",
+    "abv": "3%"
+  }
+]
